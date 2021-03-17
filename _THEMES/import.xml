@@ -5,5 +5,58 @@
 <char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 <tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
 </char>
+<prop id="mcdonalds logo.png" name="mcdonalds logo" holdable="1" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="big mac.png" name="big mac" holdable="1" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bigmac.png" name="big_mac" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="mcdonaldslogo.png" name="mcdonalds_logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="mcdonalds_menu.png" name="mcdonalds_menu" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="happy meal mcdonalds.png" name="happymeal_mcdonalds" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chipmunk happy meal toy.png" name="chipmunk_happymeal" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="mcdonalds salads.png" name="mcdonalds_salad" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="mcdonalds_salads.png" name="mcdonalds_salad" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chevy 1997.png" name="chevy_1997" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="little bill apartment.png" name="bill_house" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="mcdonalds germantown backdrop.png" name="mcd_german" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Nicetown.png" name="Nicetown_pic" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="happy meal mcdonalds.png" name="happy_meal" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chicken nuggets.png" name="chic_mcnuggets" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chicken nuggets.png" name="chic_mcnuggets" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="happy_meal_mcdonalds.png" name="happy_meal" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chicken_nuggets.png" name="chic_nugget" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="chipmunk_happy_meal_toy.png" name="theo_toy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="dun_dun.mp3" name="dun_dun" subtype="soundeffect" duration="3761" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="dun_dun.mp3" name="dun_dun" subtype="soundeffect" duration="3761" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="little_bill_apartment.png" name="little_bill_apt" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="mcdonalds_germantown_backdrop.png" name="mcdonalds_germantown" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="mcdonalds_germantown_backdrop.png" name="mcdonalds_germantown_backdrop" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Nicetown.png" name="Nicetown" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="little_bill_apartment.png" name="little_bill_apartment" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="burger_king_philadelphia_backdrop.png" name="burger_king_philadelphia_backdrop" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="old_monitor_clipart.png" name="old_monitor_clipart" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="burger_king_playground.png" name="burger_king_playground" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="gnn_news.png" name="gnn_news" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="barf_sound_little_bill.mp3" name="barf_sound_little_bill" subtype="soundeffect" duration="1384" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="leap frog pond.png" name="leap frog pond" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="leap_frog_pond.png" name="leap_frog_pond" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="lily_pad_leap_frog.png" name="lily_pad_leap_frog" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="frog_forklift.png" name="frog_forklift" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="forklift.png" name="forklift" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="pallet_jack.png" name="pallet_jack" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="blood_pool.png" name="blood_pool" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="zak_wolf.png" name="zak_wolf" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="danny_korcz_starwars.png" name="danny_korcz_starwars" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="angry_fox01.png" name="angry_fox01" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="angry_fox02.png" name="angry_fox02" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="angry_fox03.png" name="angry_fox03" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="happy_birthday_banner.png" name="happy_birthday_banner" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Sean_Lyons_Mister_Rogers.png" name="Sean_Lyons_Mister_Rogers" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SeanPartySpeech01.mp3" name="SeanPartySpeech01" subtype="soundeffect" duration="3918" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SeanPartySpeech02.mp3" name="SeanPartySpeech02" subtype="soundeffect" duration="34194" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SeanPartySpeech03.mp3" name="SeanPartySpeech03" subtype="soundeffect" duration="14602" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SeanPartySpeech04.mp3" name="SeanPartySpeech04" subtype="soundeffect" duration="9116" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1980s_cell_phone.png" name="1980s_cell_phone" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="dave_and_busters_exterior.png" name="dave_and_busters_exterior" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="dave_busters_interior.png" name="dave_busters_interior" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="pumpkin_filled_candy.png" name="pumpkin_filled_candy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 
 </theme>
